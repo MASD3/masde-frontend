@@ -14,7 +14,12 @@
 	usr/masde $ cat who.txt
 	<br />
 	<br />
-	-> Kazuya Erdos, Kohta Erdos, and Owen Lipchitz.
+	->
+	<a href="https://kazuyaerdos.com">Kazuya Erdos</a>,
+	<a href="https://linkedin.com/in/kerdos">Kohta Erdos</a>, and
+	<a href="https://www.linkedin.com/in/owen-lipchitz-nathan/"
+		>Owen Lipchitz</a
+	>.
 	<br />
 	<br />
 	usr/masde $ ls projects/
