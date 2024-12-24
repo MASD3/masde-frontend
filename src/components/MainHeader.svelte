@@ -1,4 +1,5 @@
 <script>
+	// accept props with default value
 	let { title = "masde.dev" } = $props();
 </script>
 
@@ -10,11 +11,8 @@
 
 <style>
 	h1 {
-		color: blue;
 		text-align: center;
-	}
-	:hover {
-		cursor: pointer;
+		color: green;
 	}
 	a {
 		text-decoration: none;
