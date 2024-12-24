@@ -12,7 +12,7 @@
 <style>
 	h1 {
 		text-align: center;
-		color: green;
+		color: white;
 	}
 	a {
 		text-decoration: none;
