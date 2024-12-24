@@ -1,5 +1,6 @@
 <script>
 	import "../font.css";
+	import "../theme.css";
 </script>
 
 <link
